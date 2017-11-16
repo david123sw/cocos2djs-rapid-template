@@ -1,0 +1,475 @@
+{
+  "ID": "ccec4be8-c72a-43a4-82af-9a3571d10c76",
+  "Version": "3.10.0.0",
+  "Name": "LoginScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 14,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "LI07.jpg",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 2,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 211,
+            "Scale9OriginY": 316,
+            "Scale9Width": 218,
+            "Scale9Height": 328,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "Tag": 15,
+            "Children": [
+              {
+                "FontSize": 36,
+                "LabelText": "账号",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 216.0,
+                  "Y": 352.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.225,
+                  "Y": 0.55
+                },
+                "PreSize": {
+                  "X": 0.075,
+                  "Y": 0.0656
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 180.0,
+                "RightMargin": 708.0,
+                "TopMargin": 267.0,
+                "BottomMargin": 331.0,
+                "Tag": 31,
+                "ActionTag": 741842957,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 42.0
+                },
+                "Name": "LoginAccountText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "密码",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 216.0,
+                  "Y": 288.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.225,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.075,
+                  "Y": 0.0656
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 180.0,
+                "RightMargin": 708.0,
+                "TopMargin": 331.0,
+                "BottomMargin": 267.0,
+                "Tag": 32,
+                "ActionTag": 155008641,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 42.0
+                },
+                "Name": "LoginPasswordText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Frd11.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.0,
+                  "Y": 352.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.55
+                },
+                "PreSize": {
+                  "X": 0.1937,
+                  "Y": 0.0781
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 387.0,
+                "RightMargin": 387.0,
+                "TopMargin": 263.0,
+                "BottomMargin": 327.0,
+                "Tag": 33,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "输入账号ID",
+                    "MaxLengthEnable": true,
+                    "MaxLengthText": 15,
+                    "TouchEnable": true,
+                    "StretchWidthEnable": true,
+                    "StretchHeightEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 99.0,
+                      "Y": 25.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5323,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.914,
+                      "Y": 0.46
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 14.0,
+                    "RightMargin": 2.0,
+                    "TopMargin": 13.5,
+                    "BottomMargin": 13.5,
+                    "Tag": 35,
+                    "ActionTag": 1646592920,
+                    "Size": {
+                      "X": 170.0,
+                      "Y": 23.0
+                    },
+                    "Name": "AccountTextInput",
+                    "ctype": "TextFieldObjectData"
+                  }
+                ],
+                "ActionTag": 2004643059,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 50.0
+                },
+                "Name": "AccountInputBkgSprite",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Frd11.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.0,
+                  "Y": 286.6667
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4479
+                },
+                "PreSize": {
+                  "X": 0.1937,
+                  "Y": 0.0781
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 387.0,
+                "RightMargin": 387.0,
+                "TopMargin": 328.3333,
+                "BottomMargin": 261.6667,
+                "Tag": 36,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "输入密码",
+                    "MaxLengthEnable": true,
+                    "MaxLengthText": 15,
+                    "TouchEnable": true,
+                    "StretchWidthEnable": true,
+                    "StretchHeightEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 99.0,
+                      "Y": 25.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5323,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.914,
+                      "Y": 0.46
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 14.0,
+                    "RightMargin": 2.0,
+                    "TopMargin": 13.5,
+                    "BottomMargin": 13.5,
+                    "Tag": 37,
+                    "ActionTag": 1083644567,
+                    "Size": {
+                      "X": 170.0,
+                      "Y": 23.0
+                    },
+                    "Name": "PasswordTextInput",
+                    "ctype": "TextFieldObjectData"
+                  }
+                ],
+                "ActionTag": -668008366,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 50.0
+                },
+                "Name": "PasswordInputBkgSprite",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "BaS32.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "BaS32.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "BaS31.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 210,
+                "Scale9Height": 59,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.0,
+                  "Y": 166.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.26
+                },
+                "PreSize": {
+                  "X": 0.25,
+                  "Y": 0.1266
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 360.0,
+                "RightMargin": 360.0,
+                "TopMargin": 433.1,
+                "BottomMargin": 125.9,
+                "Tag": 38,
+                "ActionTag": 704048927,
+                "Size": {
+                  "X": 240.0,
+                  "Y": 81.0
+                },
+                "Name": "LoginButton",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -2143395190,
+            "Size": {
+              "X": 960.0,
+              "Y": 640.0
+            },
+            "Name": "MainLayer",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "BaS31.png",
+        "BaS32.png",
+        "Frd11.png",
+        "LI07.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
